@@ -1,0 +1,1226 @@
+[
+    {
+        "id_simulado": 1001,
+        "rol_empleado": "Operario Línea Envasado",
+        "mensaje_raw": "Oye la etiquetadora de la linea 3 esta haciendo un ruido rarisimo otra vez... como un clack clack. Si se rompe en pleno turno de noche nos jode vivos 😡 habria q revisarla antes del viernes",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 1002,
+        "rol_empleado": "Becario Marketing",
+        "mensaje_raw": "Y si hacemos una colabo con una marca de calcetines??? 🧦🍺 tipo, compra un pack de 12 y te llevas unos calcetines con lúpulos dibujados. Lo he visto en insta y lo peta.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 1003,
+        "rol_empleado": "Jefe de Turno",
+        "mensaje_raw": "quien se ha dejado el tupper de pescado en el microondas de la sala de descanso???? huele que alimenta maxo, un poco de respeto",
+        "analisis": {
+            "es_idea": false,
+            "area": "RRHH",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 1004,
+        "rol_empleado": "Ingeniero de Procesos",
+        "mensaje_raw": "He estado mirando los logs del SAP y perdemos mazo tiempo en los cambios de formato de botella 33cl a 50cl. Si estandarizamos el cuello de la botella, nos ahorramos cambiar las estrellas de la llenadora. Ganamos 40 min por cambio.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 1005,
+        "rol_empleado": "Director Comercial",
+        "mensaje_raw": "Chicos, feedback de los bares: la caja de cartón nueva se rompe con la humedad de la camara. Hay q volver al gramaje anterior o plastificarla xq estamos teniendo devoluciones a saco 📉",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 1006,
+        "rol_empleado": "Logística",
+        "mensaje_raw": "ok voy pa alla",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 1007,
+        "rol_empleado": "Técnico de Lab",
+        "mensaje_raw": "idea loca: cerveza transparente. Como el agua pero q coloque y sepa a birra. Seria la ostia para verano no?? 🤯😂",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Baja",
+            "retorno_roi": "Desconocido",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 1008,
+        "rol_empleado": "Administrativo",
+        "mensaje_raw": "Mamá comprame pan que no llego a tiempo",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 1009,
+        "rol_empleado": "Operario Depuradora",
+        "mensaje_raw": "El lodo de la depuradora nos cuesta dinero gestionarlo como residuo. Un colega de una granja dice q igual le sirve de abono. Podriamos venderlo o regalarlo y nos ahorramos el gestor de residuos? 🚜♻️",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Media",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 1010,
+        "rol_empleado": "Gerente Planta",
+        "mensaje_raw": "sensores IoT en los tanques de fermentacion ya. no puede ser que tengamos que ir con la libretita apuntando densidades cada 4 horas en pleno 2024. automatizacion x favor.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2001,
+        "rol_empleado": "Carretillero",
+        "mensaje_raw": "CASI ME LLEVO POR DELANTE A UNO DE CALIDAD EN EL PASILLO B. Poned espejos convexos en los cruces de paletizado x dios!!! 🤬 q con la carga alta no vemos nada y va a haber una desgracia",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2002,
+        "rol_empleado": "Gestor de Cuentas Clave",
+        "mensaje_raw": "los clientes de hosteleria se quejan de que los grifos nuevos son muy complicados de limpiar. Si diseñamos un kit de limpieza simplificado q venga con el barril? Fidelizamos al barman seguro.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2003,
+        "rol_empleado": "Operario Sala Cocción",
+        "mensaje_raw": "Oye, el lúpulo q ha llegado hoy huele raro, como a humedad. Revisadlo antes de meterlo al hervidor q nos cargamos el lote entero.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2004,
+        "rol_empleado": "Auxiliar Administrativo",
+        "mensaje_raw": "oye teneis el numero de la pizzeria esa buena? es para pedir para el turno",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 2005,
+        "rol_empleado": "Ingeniero Energético",
+        "mensaje_raw": "He vist que tiramos muchisima agua caliente en el lavado de botellas (CIP). Si metemos un intercambiador de calor ahi, calentamos el agua de entrada de la caldera gratis. ROI de 6 meses facil. 📉💸",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2006,
+        "rol_empleado": "Brand Manager",
+        "mensaje_raw": "y una birra con sabor a turrón pa navidad??? 🎄🍺 rollo edicion limitada super exclusiva. Lo petariamos en tiktok fijo, aunque sepa regular jajaja",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Media",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2007,
+        "rol_empleado": "Técnico Mantenimiento",
+        "mensaje_raw": "valvula v45 bloqueada. bypass activado. mañana la cambio.",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 2008,
+        "rol_empleado": "Analista de Calidad",
+        "mensaje_raw": "Estamos gastando demasiado papel imprimiendo los analisis de cada tanque. No podemos subirlo directo a la nube y q se vea en tablets?? ahorramos papel y tiempo de archivo 🌳📱",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 2009,
+        "rol_empleado": "Becario IT",
+        "mensaje_raw": "[Audio mal transcrito] que dice el jefe que si reinicias el router de la nave b... que no va el wifi y no pueden ver el furbol digooo el correo",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 2010,
+        "rol_empleado": "Responsable Logística",
+        "mensaje_raw": "Propuesta: usar drones para el inventario de palets en altura en el almacen externo. Tardan 3 dias haciendolo a mano y es peligroso subir y bajar con la cesta. Con dron es una tarde.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 3001,
+        "rol_empleado": "Preventa",
+        "mensaje_raw": "Los clientes se quejan d q nunca les cogemos el tlf los lunes x la mañana. Xq no hacemos una app basica pa q los bares pidan reposicion directa?? 📱 asi no perdemos ventas x no atender la llamada",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 3002,
+        "rol_empleado": "Operario Almacén",
+        "mensaje_raw": "Alguien me cambia el turno del sabado noche??? 🙏🙏 tengo boda y se me ha olvidado pedir el dia. invito a almorzar al q me lo cambie!!",
+        "analisis": {
+            "es_idea": false,
+            "area": "RRHH",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 3003,
+        "rol_empleado": "Ingeniero de Planta",
+        "mensaje_raw": "Las cintas transportadoras de la zona de empacado consumen luz aunque no haya botellas pasando. Podriamos poner fotocelulas que las paren si no detectan producto en 2 min? Ahorro energetico facil 💡🔌",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 3004,
+        "rol_empleado": "Marketing Digital",
+        "mensaje_raw": "Idea: Cerveza con CBD (lo del cannabis legal). Esta super de moda ahora para relajarse. 'Relax Brew' o algo asi. Nicho de mercado brutal.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 3005,
+        "rol_empleado": "Limpieza Industrial",
+        "mensaje_raw": "El suelo de la zona de coccion resbala muchisimo con el mosto q cae. O comprais botas mejores o echamos antideslizante al suelo xq ayer casi se mata el paco 🤕🚑",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 3006,
+        "rol_empleado": "Director Financiero",
+        "mensaje_raw": "Revisad gastos de viaje d los comerciales, no puede ser",
+        "analisis": {
+            "es_idea": false,
+            "area": "Ventas",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 3007,
+        "rol_empleado": "Jefe de Producción",
+        "mensaje_raw": "Tenemos mermas altas de cerveza en el filtrado. Si instalamos una centrifuga antes del filtro de tierras, recuperamos un 2% mas de liquido q ahora se tira. La inversion es gorda pero se paga sola en un año.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 3008,
+        "rol_empleado": "Becario RRPP",
+        "mensaje_raw": "y si patrocinamos un equipo de eSports?? 🎮 los gamers beben mucha birra mientras juegan no? jajaja seria moderno",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Desconocido",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 3009,
+        "rol_empleado": "Conductor Reparto",
+        "mensaje_raw": "trafico imposible en la m30 llego tarde al segundo bar",
+        "analisis": {
+            "es_idea": false,
+            "area": "Logística",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 3010,
+        "rol_empleado": "Técnico Calidad",
+        "mensaje_raw": "He notado q las latas de 33cl a veces vienen con microfugas en la pestaña. Creo q la máquina de cierre (seamer) tiene el rodillo 2 desajustado. Hay q calibrar cada semana en vez de cada mes. 🔧🍺",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4001,
+        "rol_empleado": "Comercial HORECA",
+        "mensaje_raw": "Oye xq no damos puntos directos a los camareros x cada barril que pinchen?? 🤔 escanean un qr en la tapa del barril y pum, regalos pa ellos. Asi empujan nuestra marca y no la de la competencia cuando el cliente pide 'una caña' sin decir marca.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4002,
+        "rol_empleado": "Ingeniero Medioambiente",
+        "mensaje_raw": "He medido el agua del enjuague final de las botellas y sale casi potable. Se podria reutilizar para el primer lavado de las cajas sucias de plastico? Ahorrariamos m3 de agua a lo bestia 💧🔄 solo hace falta una tuberia de retorno.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4003,
+        "rol_empleado": "Operario Envasado",
+        "mensaje_raw": "jajajaja mirad este meme soy yo los viernes a las 14:59 😂🏃‍♂️🍺 [Imagen adjunta]",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 4004,
+        "rol_empleado": "Prevención Riesgos",
+        "mensaje_raw": "muchas bajas por lumbalgia en la zona de carga manual... 🚑 he visto unos exoesqueletos pasivos q valen 4 duros y ayudan a levantar peso. deberiamos comprar un par de prueba para los chicos del almacen.",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Media",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4005,
+        "rol_empleado": "Maestro Cervecero",
+        "mensaje_raw": "Para la sin gluten... en vez de usar granos raros q saben a paja, usemos la enzima esa q rompe el gluten en el fermentador. Mantenemos el sabor original d la Pilsen pero apta celiacos. Hacemos una prueba piloto en el tanque peq?? 🌾🚫",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4006,
+        "rol_empleado": "Directora RRHH",
+        "mensaje_raw": "Cariño no te olvides de recoger a los niños hoy del judo q tengo reunion de comite hasta tarde 😘",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 4007,
+        "rol_empleado": "Jefe Mantenimiento",
+        "mensaje_raw": "La bomba de trasiego 4 suena feo. Si le ponemos sensores de vibracion inalambricos podemos predecir cndo va a cascar antes de q pare la linea de repente. Mantenimiento predictivo ya, x favor.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4008,
+        "rol_empleado": "Becario Contabilidad",
+        "mensaje_raw": "la maquina de cafe de la 2a planta saca el cafe helado 🥶🥶 arregladla xfa q no soy persona y no cuadran los excels",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 4009,
+        "rol_empleado": "Event Manager",
+        "mensaje_raw": "Para el festival de verano: montar un 'Beer Pong' gigante con cubos de basura limpios y balones de volley. Atrae gente, es barato y salen videos virales fijo 🏓🍻",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 4010,
+        "rol_empleado": "Coord. Flota",
+        "mensaje_raw": "Nuestros camiones vuelven vacios del norte despues de entregar. Podriamos traer malta de los proveedores de alli aprovechando el viaje de vuelta (backhaul)? Reducimos coste de transporte un 30% facil.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5001,
+        "rol_empleado": "Analista de Mercado",
+        "mensaje_raw": "He visto q la competencia ha sacado etiquetas termocromicas (las q cambian de color cndo la birra esta fria ❄️). Si ponemos nuestro logo q se ponga azul a 4°C?? Al cliente le flipa eso de saber si esta lista pa beber sin tocarla.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5002,
+        "rol_empleado": "Operario Mantenimiento",
+        "mensaje_raw": "OK GOOGLE LLAMAR A MANOLO TALLER... ups perdon grupo me he liado con el manos libres del coche 🤦‍♂️",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 5003,
+        "rol_empleado": "Ingeniero de Procesos",
+        "mensaje_raw": "Estamos venteando demasiado CO2 en la fermentacion xq el equipo de recuperacion es viejo. Si invertimos en una planta de recuperacion moderna, dejamos de comprar CO2 liquido para la carbonatacion final. Somos autosuficientes en gas. ♻️💨",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5004,
+        "rol_empleado": "Formador RRHH",
+        "mensaje_raw": "Los novatos entran en la linea y no saben ni dnd esta el boton de paro. Propongo un sistema de 'Buddy' (padrino) 🤝: un veterano q acompañe al nuevo 2 semanas. Reduciriamos los accidentes y las mermas por error humano fijo.",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5005,
+        "rol_empleado": "Jefe de Almacén",
+        "mensaje_raw": "Me faltan 200 barriles en el recuento de este mes. Otra vez. 🤬 Hay q poner tags RFID o GPS a los barriles para saber si nos los roban o se pierden en los distribuidores. Esto es un coladero de pasta.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5006,
+        "rol_empleado": "Administrativo Ventas",
+        "mensaje_raw": "el cliente de mercadona dice q no le ha llegado el pedido de las 10",
+        "analisis": {
+            "es_idea": false,
+            "area": "Ventas",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 5007,
+        "rol_empleado": "Responsable I+D",
+        "mensaje_raw": "Idea de valorizacion de residuos: El bagazo (el grano q sobra tras macerar) es super rico en fibra y proteina. En vez de venderlo barato pa vacas 🐄, podriamos secarlo y hacer harina para panaderias 'Human Food'. Se paga 10 veces mas caro. 🥖🌾",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5008,
+        "rol_empleado": "Operario Limpieza",
+        "mensaje_raw": "oye quien ha aparcado un seat leon rojo en mi plaza??? q lo quite o llamo a la grua eh, q estoy saliente de noche y no tengo paciencia 😡⛔",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 5009,
+        "rol_empleado": "Técnico IT",
+        "mensaje_raw": "Instalar pantallas grandes en la cantina y en planta con los KPIs de produccion en tiempo real (botellas/hora, mermas...). 📊🖥️ Si la gente ve si van ganando o perdiendo contra el objetivo, se motivan mas. Gamificacion basica.",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 5010,
+        "rol_empleado": "Director de Compras",
+        "mensaje_raw": "Estamos comprando las chapas de las botellas a tres proveedores distintos y cada uno tiene un tono de rojo diferente. Queda fatal en el lineal. Unifiquemos proveedor ya, ademas negociamos mejor precio por volumen. 💰📉",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 6001,
+        "rol_empleado": "Analista Financiero",
+        "mensaje_raw": "He revisado las facturas de electricidad. El pico de consumo es a las 10am cuando arrancan todas las lineas a la vez. Si escalonamos el arranque de máquinas cada 15 mins, bajamos la potencia contratada y nos ahorramos 50k al año facil 💸📉",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 6002,
+        "rol_empleado": "Becario Producción",
+        "mensaje_raw": "oigan el grifo de la sala de catas gotea... es una pena tirar esa IPA tan rica jajaja me la puedo beber yo?? 🤤🍺 es broma (o no)",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 6003,
+        "rol_empleado": "Responsable Sostenibilidad",
+        "mensaje_raw": "Estamos tirando el vidrio roto de las botellas que explotan al contenedor general. Si ponemos contenedores de reciclaje de vidrio en cada linea, el gestor nos paga por el casco roto en vez de cobrarnos por basura. Economía circular gente!! ♻️🌍",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 6004,
+        "rol_empleado": "Operario Etiquetado",
+        "mensaje_raw": "La cola de las etiquetas se seca mazo rapido en verano y se atasca la maquina cada dos por tres. Poned un climatizador o algo en la sala de colas xq estamos parando la linea 20 mins cada hora. Es inaguantable 🥵🌡️",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 6005,
+        "rol_empleado": "Directora Marketing",
+        "mensaje_raw": "Idea para el lanzamiento de la Lager Premium: QR en la botella que te abra una lista de Spotify curada para beberte esa birra. 'Música para saborear'. Experiencia de usuario 360. 🎵🍻",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 6006,
+        "rol_empleado": "Ventas Zona Sur",
+        "mensaje_raw": "audio_0923.ogg (0:02)",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 6007,
+        "rol_empleado": "Ingeniero Automatización",
+        "mensaje_raw": "En el tunel de pasteurizacion a veces nos pasamos de temperatura y 'cocemos' la cerveza (sabor a carton). Si implementamos un control PID predictivo en las valvulas de vapor, clavamos las UPs (Unidades de Pasteurizacion) y la calidad sube. 🖥️🔧",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 6008,
+        "rol_empleado": "Encargado Turno Noche",
+        "mensaje_raw": "A ver quien es el gracioso q ha pintado una cara en el tanque 4 con rotulador permanente... 😒 Mañana viene auditoria de la ISO y me va a caer a mi la bronca.",
+        "analisis": {
+            "es_idea": false,
+            "area": "RRHH",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 6009,
+        "rol_empleado": "Product Manager",
+        "mensaje_raw": "El mercado de 'Hard Seltzer' (agua con gas y alcohol) esta creciendo. Ya tenemos la tecnologia de fermentacion y carbonatacion. Solo es cambiar la receta y añadir aromas frutales. Diversificamos portfolio facil. 🍓🍋",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Alta",
+            "retorno_roi": "Desconocido",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 6010,
+        "rol_empleado": "Logística Internacional",
+        "mensaje_raw": "Los contenedores para exportacion a china van con mucho aire. Si cambiamos el diseño del palet americano al europalet reforzado, caben 2 filas mas por container. Ahorro en fletes bestial 🚢📦",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7001,
+        "rol_empleado": "Técnico de Laboratorio",
+        "mensaje_raw": "Estoy harto de contar levaduras a ojo en el microscopio 🔬😵 Se me cruzan los ojos. Hay un software open source q se conecta a la camara y las cuenta solo con IA. Lo instalo en el pc del lab?? Ahorro 1 hora al dia fijo.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7002,
+        "rol_empleado": "Comercial Zona Norte",
+        "mensaje_raw": "Manolo cuanto pides por la bici?? igual me interesa pa mi chico",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 7003,
+        "rol_empleado": "Ingeniero Mecánico",
+        "mensaje_raw": "Las cadenas de arrastre de la linea 1 chirrian q da miedo. El engrase manual no llega a todos los eslabones. Propongo sistema de goteo automático en los puntos clave. Alarga la vida de la cadena el doble. ⚙️💧",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7004,
+        "rol_empleado": "Becario RRHH",
+        "mensaje_raw": "Y si hacemos un 'Viernes de Cata'? 🍻 Q un maestro cervecero nos explique una birra diferente cada semana a los de oficinas. Pa q sepamos lo q vendemos (y pa hacer equipo jiji)",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7005,
+        "rol_empleado": "Director Operaciones",
+        "mensaje_raw": "Mirad el techo del almacén nuevo. Son 2000m2 vacíos. Placas solares YA. ☀️⚡ Con lo que sube la luz, el payback baja a 3 años. Hablo con proveedores?",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7006,
+        "rol_empleado": "Recepcionista",
+        "mensaje_raw": "ha llegado un paquete de amazon para un tal 'el chispas' ?? 📦 aqui no pone nombre real",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 7007,
+        "rol_empleado": "Brand Ambassador",
+        "mensaje_raw": "Lo de las IPAs está saturado. La próxima moda son las 'Sour Beers' (ácidas). Deberiamos sacar una linea experimental pequeña 'Acid Series' para bares frikis y posicionarnos como innovadores antes q la competencia grande. 🍋😝",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Media",
+            "retorno_roi": "Desconocido",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7008,
+        "rol_empleado": "Jefe de Turno Envasado",
+        "mensaje_raw": "La llenadora escupe mucha espuma con la Stout. Si bajamos la temperatura de llenado 1 grado, controlamos la espuma y ganamos velocidad de linea. Solo hay q ajustar el chiller. 📉🍺",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 7009,
+        "rol_empleado": "Seguridad",
+        "mensaje_raw": "la puerta trasera del muelle 4 no cierra bien, se queda abierta y entra cualquiera... arregladlo ya q me juego el puesto 👮‍♂️🔐",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 7010,
+        "rol_empleado": "Gestor de Stocks",
+        "mensaje_raw": "Para los movimientos internos de material entre naves, estamos usando palets de madera q se rompen y pesan. Podriamos usar 'Slip Sheets' (hojas deslizantes)? Son de carton, no pesan nada y cuestan 1€ vs los 10€ del palet. Necesitamos un adaptador pa la carretilla eso si.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 8001,
+        "rol_empleado": "Marketing Junior",
+        "mensaje_raw": "Y si hacemos una promo rollo Willy Wonka? 🎫🍫 Ponemos 5 chapas doradas en los botellines random y al que le toque gana visita VIP a la fábrica + cerveza gratis un año. La gente se volveria loca buscando.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 8002,
+        "rol_empleado": "Técnico Depuración",
+        "mensaje_raw": "El agua de rechazo de la osmosis inversa va directa al desagüe. No es potable pero está limpia. Se podria canalizar para baldear los patios exteriores y regar jardines? Son miles de litros al dia tirados. 💦🥀",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 8003,
+        "rol_empleado": "Operario Envasado",
+        "mensaje_raw": "quien ha diseñado el menu de hoy??? las lentejas estan duras como piedras 🤢 casi me dejo una muela, queja formal a la empresa de catering ya",
+        "analisis": {
+            "es_idea": false,
+            "area": "RRHH",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 8004,
+        "rol_empleado": "Supervisor Mantenimiento",
+        "mensaje_raw": "He detectado fugas de aire comprimido en la linea de barriles, se oye el sssssss continuo. Si compramos una camara de ultrasonidos (cuesta 2k) detectamos todas en una mañana. El aire comprimido es la energia mas cara de la fabrica!!! 💨💸",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 8005,
+        "rol_empleado": "Delegado Sindical",
+        "mensaje_raw": "En la zona de hornos hace un calor infernal en verano. Poned fuentes de agua fria cerca o repartid chalecos refrigerantes xq nos va a dar un parraque a alguno 🥵🌡️ Seguridad ante todo.",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Bajo",
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 8006,
+        "rol_empleado": "Administrativo",
+        "mensaje_raw": "cari comprame jamon york y leche q se ha acabado al salir paso yo a x el pan",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 8007,
+        "rol_empleado": "Jefe Tráfico",
+        "mensaje_raw": "Los camiones de reparto de la zona centro se solapan mazo. Si usamos un software de ruteo dinámico en vez de las rutas fijas de siempre? Ahorramos gasoil y km muertos. 🚚🗺️",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 8008,
+        "rol_empleado": "Ingeniero I+D",
+        "mensaje_raw": "Estoy probando la levadura LA-01 para la 'Sin Alcohol'. No genera alcohol pero fermenta igual y genera esteres frutales. Sabe a cerveza de verdad, no como el mosto dulce que vendemos ahora. Hay q validarla en planta piloto ya. 🦠🍺",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 8009,
+        "rol_empleado": "Auxiliar Laboratorio",
+        "mensaje_raw": "quien se apunta a la porra del madrid barça?? 5 pavos la entrada, el ganador se lo lleva todo ⚽💰 pago por bizum",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 8010,
+        "rol_empleado": "Contable",
+        "mensaje_raw": "Nos ahogamos en facturas de papel. Poned un OCR q lea los pdfs y los meta al SAP solos. Estamos picando datos a mano como en los 90 y tenemos errores de tecleo (typos) en los importes. 📠💻",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9001,
+        "rol_empleado": "Brand Manager",
+        "mensaje_raw": "He visto en un bar de berlin q usan posavasos con semillas dentro. Cndo acabas, te lo llevas, lo plantas y sale una planta de lupulo (o perejil jajaj). 🌿🍺 Sostenibilidad + Marketing viral. Lo miramos??",
+        "analisis": {
+            "es_idea": true,
+            "area": "Marketing",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9002,
+        "rol_empleado": "Jefe de Mantenimiento",
+        "mensaje_raw": "Se nos rompen mazo las guias de plastico de la encajonadora y el recambio tarda 3 semanas en venir de alemania. Si compramos una impresora 3D profesional? 🖨️ Nos imprimimos las piezas 'in house' en horas y no paramos la linea.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9003,
+        "rol_empleado": "Operario Bodega",
+        "mensaje_raw": "oye paco traete el taladro de casa q el de aqui no tiene bateria y paso de ir a buscar otro al taller central",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 9004,
+        "rol_empleado": "Técnico de PRL",
+        "mensaje_raw": "El ruido en la zona de soplado de botellas es de 95dB. Los tapones normales molestan si los llevas 8 horas. Propongo hacer moldes a medida para los operarios fijos de esa zona 👂🎧 es una inversion en salud y bajamos bajas x estres acustico.",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9005,
+        "rol_empleado": "Ingeniero Procesos",
+        "mensaje_raw": "Estamos evaporando al 4,5% en la caldera de cocción. He leido papers q con las maltas modernas basta con un 3% para quitar los DMS (malos olores). Si bajamos ese 1,5% ahorramos una barbaridad de gas natural al año. 📉🔥 Prueba industrial ya.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9006,
+        "rol_empleado": "Becario Marketing",
+        "mensaje_raw": "jajajaja mirad al gato del almacen persiguiendo el laser de la carretilla 🐈😂 [Video adjunto 0:15]",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 9007,
+        "rol_empleado": "Director Comercial",
+        "mensaje_raw": "Los iPad de los comerciales no aguantan la bateria todo el dia visitando bares. 🔋🪫 O les compramos powerbanks para el coche o renovamos tablets, pero no pueden quedarse 'offline' a las 16:00, perdemos pedidos.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9008,
+        "rol_empleado": "Limpieza",
+        "mensaje_raw": "No hay jabon en los baños de la planta baja desde el martes... aviso eh",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 9009,
+        "rol_empleado": "Desarrollador de Producto",
+        "mensaje_raw": "Tendencia: 'Keto Beer'. Cerveza ultra baja en carbohidratos (<2g). Hay un nicho de gente fitness q no bebe birra x la dieta. Si usamos amiloglucosidasa nos comemos todos los azucares. 💪🍺 Seria la primera industrial en españa.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 9010,
+        "rol_empleado": "Administración",
+        "mensaje_raw": "Hola chicos soy la madre de Dani, perdonad que escriba aqui, se ha dejado el tupper?",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 10001,
+        "rol_empleado": "Responsable E-commerce",
+        "mensaje_raw": "Oye y si montamos un 'Club de la Birra'? 📦🍺 Rollo suscripción mensual, te llegan 6 especiales a casa cada mes. Tipo Netflix pero de beber. Fidelizacion recurrente y nos quitamos stock de ediciones limitadas.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 10002,
+        "rol_empleado": "Operario Línea 2",
+        "mensaje_raw": "Viernes y el cuerpo lo sabe 💃🕺 a ver si no se rompe nada hoy q a las 15:00 me fuiiii ni me veis el pelo",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Social"
+        }
+    },
+    {
+        "id_simulado": 10003,
+        "rol_empleado": "Ingeniero de Procesos",
+        "mensaje_raw": "Los ciclos de lavado CIP de los tanques duran 45 mins por protocolo antiguo, pero con los quimicos nuevos en 30 mins ya sale limpio (he hecho pruebas de frotis). Si reprogramamos el automata ganamos 15 mins de produccion por lote. ⏱️🚿",
+        "analisis": {
+            "es_idea": true,
+            "area": "Procesos",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 10004,
+        "rol_empleado": "Gestor de Activos",
+        "mensaje_raw": "Se pierden demasiados barriles en los chiringuitos de playa en verano... 🏖️🕵️‍♂️ Propongo poner localizadores IoT baratos (tipo AirTag pero industrial) en el 10% de la flota para ver donde acaban. Seguro q los estan vendiendo como chatarra.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Logística",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 10005,
+        "rol_empleado": "Asistente Dirección",
+        "mensaje_raw": "cita dentista martes 17h no olvidar",
+        "analisis": {
+            "es_idea": false,
+            "area": "Otro",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Error"
+        }
+    },
+    {
+        "id_simulado": 10006,
+        "rol_empleado": "Control de Calidad",
+        "mensaje_raw": "Me estoy dejando la vista en la mesa de inspeccion visual manual. 👀 Las luces son viejas y parpadean. Poned paneles LED de luz blanca de alta intensidad x dios, q se nos pasan los defectos x no ver bien.",
+        "analisis": {
+            "es_idea": true,
+            "area": "RRHH",
+            "factibilidad": "Alta",
+            "retorno_roi": "Medio",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 10007,
+        "rol_empleado": "Electromecánico",
+        "mensaje_raw": "Los motores de la cinta 4 estan calientes como el infierno 🔥🔥 comprad una camara termografica manual pa ir chequeando cuadros electricos antes de q se quemen. Olemos a chamusquina y nunca sabemos cual es hasta q explota.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Mantenimiento",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 10008,
+        "rol_empleado": "Administrativo",
+        "mensaje_raw": "el aire acondicionado de la oficina esta a 18 grados estais locos o sois pinguinos?? 🐧🥶 subidlo un poco q estamos todos con catarro",
+        "analisis": {
+            "es_idea": false,
+            "area": "Mantenimiento",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 10009,
+        "rol_empleado": "I+D Nuevos Productos",
+        "mensaje_raw": "Dato: La competencia no tiene una 'Radler 0.0' decente. Todas saben a medicina. Si sacamos una con zumo de limón natural de verdad (aunque sea mas caro) y 0.0 alcohol, nos comemos el mercado de mediodia/trabajo. 🍋🚫🍺",
+        "analisis": {
+            "es_idea": true,
+            "area": "Innovación",
+            "factibilidad": "Media",
+            "retorno_roi": "Alto",
+            "intencion": "Mejora"
+        }
+    },
+    {
+        "id_simulado": 10010,
+        "rol_empleado": "Comercial",
+        "mensaje_raw": "La app de preventa crashea cuando meto un pedido de mas de 50 referencias. 📉📱 Me ha pasado 2 veces hoy delante del cliente, quedo fatal. Arreglad el bug o dadme libreta y boli de toda la vida.",
+        "analisis": {
+            "es_idea": true,
+            "area": "Ventas",
+            "factibilidad": "Alta",
+            "retorno_roi": "Alto",
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 10011,
+        "rol_empleado": "Comercial",
+        "mensaje_raw": "Soy repartidor y me gustaria cambiar la forma de descargar los barriles, para hacer menos fuerza",
+        "analisis": {
+            "es_idea": false,
+            "area": "Ventas",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    },
+    {
+        "id_simulado": 10012,
+        "rol_empleado": "Comercial",
+        "mensaje_raw": "El año pasado facturamos diez, el año que viene necesitamos facturar veinte",
+        "analisis": {
+            "es_idea": false,
+            "area": "Ventas",
+            "factibilidad": null,
+            "retorno_roi": null,
+            "intencion": "Queja"
+        }
+    }
+]
